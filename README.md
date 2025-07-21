@@ -5,9 +5,13 @@ A console-based C++ project to mark and view student attendance using file handl
 ## ✅ Features
 
  📝  Mark Attendance by entering present roll numbers
+ 
  📅  View Attendance by Date
+ 
  🧾 View Attendance by Degree & Semester
+ 
  🔍  View Attendance by Roll Number
+ 
  📄 Data is stored in local .txt files 
 
 
